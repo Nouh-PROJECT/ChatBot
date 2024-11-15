@@ -1,4 +1,7 @@
 ## 챗봇 수정중..
+main.py -> 원래 코드(오토 챗봇 베이스 코드)에 내 정보 조회하는 것 추가한것
+learning.py -> 데이터베이스 생성 코드 포함되어 있음 get_user_info  함수 확인 용이고 app 실행 없음
+learning2.py -> 현재 작업 중! 내 이메일, 내 전화번호 등 필터링을 하는 중 app 실행 있어서 python3 learning2.py로 실행 가능~
 
 ## Chat Bot with OpenAI API and Flask
 
