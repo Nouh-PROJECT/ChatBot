@@ -41,7 +41,7 @@ def get_user_info(user_id):
     cursor.execute(f"SELECT name, email, phone, reservations FROM users WHERE user_id = {user_id}")
     print(9)
     result = cursor.fetchone()
-    print(10)
+    print(result)
     if result:
         name, email, phone, reservations = result
         print(result)
